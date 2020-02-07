@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fff1491c-abc6-4356-bddd-e240428bb60a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1WxCNMFDoWocYQHEkZ4PvMT0dvL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fff1491c-abc6-4356-bddd-e240428bb60a" name="Default Changelist" comment="" />
+      <created>1580081817525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580081817525</updated>
+      <workItem from="1580081819239" duration="300000" />
+      <workItem from="1580082144510" duration="1789000" />
+      <workItem from="1580083960866" duration="1789000" />
+      <workItem from="1580117374275" duration="1785000" />
+      <workItem from="1580119185992" duration="1695000" />
+      <workItem from="1580122071262" duration="612000" />
+      <workItem from="1580126195809" duration="431000" />
+      <workItem from="1580296938965" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="182" width="661" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580119567720">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="342" y="182" width="661" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.700@0.27.1366.700" timestamp="1580119567720" />
+    <state x="466" y="135" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580083089724">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="466" y="135" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.700@0.27.1366.700" timestamp="1580083089724" />
+    <state x="339" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1580296943969">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="339" y="204" key="com.intellij.ide.util.TipDialog/0.27.1366.700@0.27.1366.700" timestamp="1580296943969" />
+    <state x="434" y="69" width="488" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580082324780">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="434" y="69" width="488" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.700@0.27.1366.700" timestamp="1580082324780" />
+  </component>
+</project>
